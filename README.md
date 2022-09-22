@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning **_App Development I_** and **_DB Modeling_**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: **aaroncruzband@gmail.com**
-- C'mon, [Acess my GitHub
-- ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- C'mon, [Acess my GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!---
 TheCruzi/TheCruzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
